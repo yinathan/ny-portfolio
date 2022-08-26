@@ -38,7 +38,8 @@ const About = () => {
               <small>6+ Completed</small>
             </article>
           </div>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos esse, molestias deleniti quia nesciunt fugit nulla iusto repudiandae animi culpa ipsum in quam atque labore vitae voluptatum. A, itaque ipsum!</p>
+    <p>Software Engineer with a background in science and music who is constantly learning and creating. A resourceful team player, I keep others in mind whether they are on my team or the final audience for products I create and work on.
+</p>
 
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
