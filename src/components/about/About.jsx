@@ -20,17 +20,9 @@ const About = () => {
 
         <div className='about__content'>
           <div className='about__cards'>
-            <article className='about__card'>
-              <FaAward className='about__icon' />
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
-            </article>
+
         
-            <article className='about__card'>
-              <FaUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
+        
             
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
@@ -38,7 +30,8 @@ const About = () => {
               <small>6+ Completed</small>
             </article>
           </div>
-    <p>Software Engineer with a background in science and music who is constantly learning and creating. A resourceful team player, I keep others in mind whether they are on my team or the final audience for products I create and work on.
+    <p>
+    I am a full-stack software developer who is consantly striving to learn and create. A resourceful team player, I keep others in mind whether they are on my team of the final audience for the products I work on and manage. With a background in music and dentistry, I am able to use skills I've learned over the years to tackle a problem with creativity and perserverence. 
 </p>
 
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
