@@ -1,5 +1,5 @@
 #contact {
-    margin: 10rem;
+    margin-top: 20rem
 }
 
 .container.contact__container{
@@ -61,6 +61,11 @@ input,textarea {
     .container.contact__container{
         grid-template-columns: 1fr;
         gap: 2rem;
+        
+    }
+    #contact {
+        margin-top: 45rem;
+        margin-bottom: 18rem;
     }
 }
 
