@@ -31,7 +31,7 @@ const About = () => {
             </article>
           </div>
     <p>
-    I am a full-stack software developer who is consantly striving to learn and create. A resourceful team player, I keep others in mind whether they are on my team of the final audience for the products I work on and manage. With a background in music and dentistry, I am able to use skills I've learned over the years to tackle a problem with creativity and perserverence. 
+  I am a full-stack software developer who is constantly striving to learn and create. A resourceful team player, I keep others in mind whether they are on my team of the final audience for the products I work on and manage. With a background in music and dentistry, I am able to use skills I've learned over the years to tackle a problem with creativity and perseverance.
 </p>
 
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
